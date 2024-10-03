@@ -1,2 +1,2 @@
 # ZuantuSet Gallery
-Navigate ancient Chinese visualizations and illustrations.
+Navigate ancient Chinese visualizations.
